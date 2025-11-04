@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao meu portfolio! Este é um espaço onde compartilho meus projetos, habilidades e experiências profissionais.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocastroxs/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ocastroxs/portfolio/issues"
+  },
+  "homepage": "https://github.com/ocastroxs/portfolio#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.16",
+    "express": "^5.1.0"
+  }
+}
